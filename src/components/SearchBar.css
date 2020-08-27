@@ -1,0 +1,11 @@
+.searchBar{
+  margin-top:50px;
+}
+.searchBar .searchIcon{
+  margin:10px;
+}
+.searchBar .searchForm{
+  padding:0px;
+  padding-top: 7px;
+  vertical-align: top;
+}
